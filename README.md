@@ -1,0 +1,2 @@
+# Djangopy
+Django Crud Practice
